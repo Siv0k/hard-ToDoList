@@ -1,0 +1,75 @@
+html {
+background-color: #bdbdbd;
+}
+body {
+margin-left: auto;
+margin-right: auto;
+width: 400px;
+border: 2px solid white;
+border-radius: 5px;
+padding: 10px;
+background-color: white;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+text-align: center;
+}
+
+.textForm {
+display: inline;
+}
+
+.button1 {
+display: inline;
+}
+
+.saveBtn {
+width: 50px;
+color : white;
+border-radius: 5px;
+background-color: #3b71ca;
+border: 2px solid #3b71ca;
+box-shadow: 
+0 0 1rem #3b71ca,
+inset 0 0 1.3rem #3b71ca; 
+}
+
+
+input[type="text"] {
+width: 50%;
+border-radius: 5px;
+}
+
+table {
+border: 1px solid white;
+border-collapse: collapse;
+}
+
+td, th {
+border-bottom: 1px solid gray;    
+border-collapse: collapse;
+padding: 10px;
+}
+
+.btn {
+border-radius: 5px;;
+}
+
+.finishBtn {
+    color : white;
+    background-color: #14a44d;
+    border: 2px solid #14a44d;
+    box-shadow:
+    0 0 0.5rem #14a44d,
+    inset 0 0 1rem #14a44d;
+}
+
+.deleteBtn {
+    color : white;
+    background-color: #dc4c64;
+    border: 2px solid #dc4c64;
+    box-shadow:
+    0 0 0.5rem #dc4c64,
+    inset 0 0 1rem #dc4c64;
+}
